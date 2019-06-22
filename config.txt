@@ -1,0 +1,6 @@
+owner=252488488065302528
+prefix=Dr
+game=Break | play
+stayinchannel=true
+songinstatus=false
+token=NTkxODI2NTU3MTQ0OTI0MTcx.XQ2bew.okgvpN4fm2cFkWNsGUFyp0X5MX4
